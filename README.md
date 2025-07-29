@@ -1,3 +1,6 @@
+# angular-pipes
+This project is aimed at better understanding of working of Angular Pipes and to create some custom pipes 
+
 # PipesDeepDive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
